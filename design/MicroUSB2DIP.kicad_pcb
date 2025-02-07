@@ -5581,7 +5581,7 @@
 	)
 	(gr_text "D-"
 		(at 62.6 55 90)
-		(layer "Cmts.User")
+		(layer "F.SilkS")
 		(uuid "1c785ded-714b-4c32-b9dd-8189484ebf35")
 		(effects
 			(font
@@ -5592,7 +5592,7 @@
 	)
 	(gr_text "D+\n"
 		(at 62.6 57.4 90)
-		(layer "Cmts.User")
+		(layer "F.SilkS")
 		(uuid "3ed1d16a-acc9-425d-a6b0-e7a28df1ea9e")
 		(effects
 			(font
@@ -5603,7 +5603,7 @@
 	)
 	(gr_text "GND"
 		(at 62.6 62.6 90)
-		(layer "Cmts.User")
+		(layer "F.SilkS")
 		(uuid "80a6d8f8-db04-4867-a40e-1547371a3447")
 		(effects
 			(font
@@ -5614,7 +5614,7 @@
 	)
 	(gr_text "IO"
 		(at 62.6 60 90)
-		(layer "Cmts.User")
+		(layer "F.SilkS")
 		(uuid "e8b3c48a-26b3-402b-a2a1-e9ac0de61fd6")
 		(effects
 			(font
@@ -5625,7 +5625,7 @@
 	)
 	(gr_text "VBUS"
 		(at 62.6 52.4 90)
-		(layer "Cmts.User")
+		(layer "F.SilkS")
 		(uuid "ed92c71f-e2ab-481b-b1fc-e15c88196932")
 		(effects
 			(font

@@ -1074,7 +1074,7 @@
 		(uuid "8de377f7-1d95-40fc-8c41-ddec0ed7c84d")
 		(at 64.3 57.5 -90)
 		(property "Reference" "J4"
-			(at -5.9 2.3 0)
+			(at -1.35 3.2 0)
 			(layer "F.SilkS")
 			(uuid "49c6fb4d-cb34-43ae-a62d-43131039ac01")
 			(effects
@@ -5579,6 +5579,61 @@
 		)
 		(uuid "0974c2b3-10e5-4fac-a3f3-35f6e275e9c0")
 	)
+	(gr_text "D-"
+		(at 62.6 55 90)
+		(layer "Cmts.User")
+		(uuid "1c785ded-714b-4c32-b9dd-8189484ebf35")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(gr_text "D+\n"
+		(at 62.6 57.4 90)
+		(layer "Cmts.User")
+		(uuid "3ed1d16a-acc9-425d-a6b0-e7a28df1ea9e")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(gr_text "GND"
+		(at 62.6 62.6 90)
+		(layer "Cmts.User")
+		(uuid "80a6d8f8-db04-4867-a40e-1547371a3447")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(gr_text "IO"
+		(at 62.6 60 90)
+		(layer "Cmts.User")
+		(uuid "e8b3c48a-26b3-402b-a2a1-e9ac0de61fd6")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(gr_text "VBUS"
+		(at 62.6 52.4 90)
+		(layer "Cmts.User")
+		(uuid "ed92c71f-e2ab-481b-b1fc-e15c88196932")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
 	(dimension
 		(type aligned)
 		(layer "Cmts.User")
@@ -5748,9 +5803,9 @@
 		(pts
 			(xy 60.1 53.2) (xy 60.93 51.86)
 		)
-		(leader_length 6.930978)
+		(leader_length 6.386998)
 		(gr_text "D=3 mm"
-			(at 71.711657 45.967768 0)
+			(at 71.425212 46.430222 0)
 			(layer "Cmts.User")
 			(uuid "6bb3239e-3a89-4ce3-b361-6059cb08b65d")
 			(effects

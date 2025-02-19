@@ -1057,9 +1057,9 @@
 			(solder_mask_margin 0.102)
 			(uuid "a5bdce0b-e1d7-4be8-8ad7-bde0daf069e1")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/UJ2-MIBH-G-SMT-TR.step"
+		(model "C:/Users/Flori/Documents/Project/Tech/Electronics/CP2102USB2UART/design/lib/3dmodels/UJ2-MIBH-G-SMT-TR.step"
 			(offset
-				(xyz 0 -0.75 0)
+				(xyz 0 -0.8 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -1509,6 +1509,17 @@
 			(pintype "passive")
 			(solder_mask_margin 0.102)
 			(uuid "80fb07cf-f8bb-4979-bb2f-f2e5bd40a598")
+		)
+		(model "${KIPRJMOD}/lib/3dmodels/TS-105-T-A-1.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "TS-101-X-A-1:SAMTEC_TS-101-X-A-1"

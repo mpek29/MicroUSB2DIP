@@ -18,7 +18,7 @@ This is an open-source reverse-engineered version of a Micro USB to DIP adapter,
 | 🔌 Connector Type    | Micro USB       | Micro USB |
 | 📌 Pin Mapping      | Standard DIP    | Standard DIP |
 | 👐 Mechanical Drawing  | <img src="assets/img/original_pcb.png" width="300" height="300"> | <img src="assets/img/reversed_pcb.png" width="300" height="300"> |
-| 📝 Reverse-Engineered Schematic | <img src="assets/img/sch.png" width="300" height="300"> | <img src="assets/img/reversed_sch.png" width="300" height="300"> |
+| 📝 Reverse-Engineered Schematic | N/A | <img src="assets/img/reversed_sch.png" width="300" height="300"> |
 | 📷 Photo             | <img src="assets/img/original_3d.png" width="300" height="300"> | <img src="assets/img/reversed_3d.png" width="300" height="300"> |
 
 ## 🛠️ How to Use
